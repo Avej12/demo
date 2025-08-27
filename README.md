@@ -39,3 +39,5 @@ streamlit run streamlit_app.py
 
 Runs on http://localhost:8501
 Real-time monitoring dashboard
+
+## Critical alerts should be sent to http://localhost:5000/logs API endpoint for automated analysis and threat detection.
