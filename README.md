@@ -19,11 +19,12 @@ pip install -r requirements.txt
 ### Configuration
 
 #### Create .env file:
-envGEMINI_API_KEY=your_gemini_api_key
-OPENSEARCH_HOST=your_opensearch_host
-OPENSEARCH_PORT=9200
-OPENSEARCH_USERNAME=your_username
-OPENSEARCH_PASSWORD=your_password
+
+##### GEMINI_API_KEY=your_gemini_api_key
+##### OPENSEARCH_HOST=your_opensearch_host
+##### OPENSEARCH_PORT=9200
+##### OPENSEARCH_USERNAME=your_username
+##### OPENSEARCH_PASSWORD=your_password
 
 ## Running the System
 ### Terminal 1 - Flask Backend
